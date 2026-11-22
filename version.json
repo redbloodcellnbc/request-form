@@ -1,8 +1,8 @@
 {
   "minVersion": "1.0",
-  "latest": "1.0",
+  "latest": "2.0",
   "effective": {},
-  "url": "",
+  "url": "https://thaibloodcentre.redcross.or.th/",
   "message": "",
-  "announcement": "Test\nTest2\nHello World"
+  "announcement": "Test\nTest2\nHello World\n123456"
 }
