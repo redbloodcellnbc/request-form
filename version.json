@@ -1,7 +1,7 @@
 {
   "minVersion": "2.0",
   "latest": "2.0",
-  "effective": { "2.0": "2026-01-12" },
+  "effective": { "2.0": "2026-12-01" },
   "url": "https://thaibloodcentre.redcross.or.th/",
   "message": "",
   "announcement": "Test\nTest2\nHello World\n123456"
